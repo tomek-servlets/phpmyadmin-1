@@ -695,7 +695,7 @@ $cfg['MaxCharactersInDisplayedSQL'] = 1000;
  *
  * @global string $cfg['OBGzip']
  */
-$cfg['OBGzip'] = 'auto';
+$cfg['OBGzip'] = false;
 
 /**
  * use persistent connections to MySQL database
