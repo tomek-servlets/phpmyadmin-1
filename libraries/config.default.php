@@ -709,7 +709,7 @@ $cfg['PersistentConnections'] = false;
  *
  * @global integer $cfg['ExecTimeLimit']
  */
-$cfg['ExecTimeLimit'] = 300;
+$cfg['ExecTimeLimit'] = 6000;
 
 /**
  * Path for storing session data (session_save_path PHP parameter).
